@@ -1,0 +1,41 @@
+/*Titre de la page*/
+h1{
+    color: #000000;
+    text-align: center;
+    background-color: #ff0000b4;
+    }
+    
+    /*Menu de Navigation*/
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: rgb(84, 93, 102);
+    }
+    
+    li {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    a:link{color: blueviolet;}
+    a:hover {color:white}
+    /* décalage de 1% sur le côté gauche de toute la page */
+    article{
+        margin-left: 1%;
+    }
+    .class{
+        display:inline-table;
+    }
+    a:hover {
+        text-decoration: none;
+    }
+    
+    h2{
+        text-align: center;
+    }
+    
